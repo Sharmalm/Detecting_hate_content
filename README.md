@@ -1,1 +1,2 @@
 # Detecting_hate_content
+This Model is finedtuned of https://huggingface.co/unitary/toxic-bert this model using sampe of https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge data for hate speech detection.
